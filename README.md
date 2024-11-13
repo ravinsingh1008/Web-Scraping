@@ -1,4 +1,4 @@
-[![Amazon_scraper (1)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=86) 
+[![Amazon_scraper (1)]
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
