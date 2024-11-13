@@ -1,6 +1,5 @@
 [![Amazon_scraper (1)]
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
 # Amazon Scraper
 
