@@ -1,6 +1,23 @@
-[![Amazon_scraper (1)]
+This project aims to use Python libraries to scrape and extract data on laptop models, features, and pricing from Amazon. You will learn how to automate the process of collecting product data from Amazon which will help you in price comparison, market research, and data-driven decision making. 
 
+Learning outcomes: 
 
+Basic knowledge of Machine Learning: Get hands-on training on the working of machine learning techniques 
+Web scraping: Learn using Python libraries like BeautifulSoup or requests to parse and extract data from HTML web pages and handle different types of data on websites, including tables and forms
+URL handling: Understand how to construct and manipulate URLs to navigate through different product pages on Amazon
+Data cleaning and transformation: Practice cleaning and organizing scraped data into a structured format such as CSV and JSON files or databases
+Data preprocessing and storage: Knowledge of saving the cleaned data to a local file or a cloud storage 
+What it takes to execute this project:
+
+Set up the development environment by installing Python and its necessary libraries
+Identify the target Amazon laptop product URL that you want to scrape 
+Develop the scraping code using Python, extract the required data, and store it in a structured format like a CSV file
+Run your code and resolve any bugs within it, like issues with handling dynamic content or working with website changes
+Real world applications: 
+
+Website scraping helps businesses monitor product prices and other features of their competitors 
+Helps market researchers to collect data on multiple topics for developing a case study or research work
+Assists marketers in understanding customer preferences and upcoming trends for making strategic decisions 
 # Amazon Scraper
 
 - [Free Amazon Scraper](#free-amazon-scraper)
